@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1> teste alteração</h1>
 <?php 
 echo"aequivo em php"
 
