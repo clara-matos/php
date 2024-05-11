@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(231, 167, 167);
+}
+ h2{
+   background-color: rgb(223, 223, 177);
+ }
+
+ pre{
+    background-color: rgb(221, 198, 157);
+    padding: 15px;
+    font-size: 24px;
+    color: white;
+ }
